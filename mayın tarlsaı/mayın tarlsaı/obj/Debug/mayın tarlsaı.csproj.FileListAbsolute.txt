@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\mayın tarlsaı\mayın tarlsaı\bin\Debug\mayın tarlsaı.exe.config
+C:\Users\Administrator\source\repos\mayın tarlsaı\mayın tarlsaı\bin\Debug\mayın tarlsaı.exe
+C:\Users\Administrator\source\repos\mayın tarlsaı\mayın tarlsaı\bin\Debug\mayın tarlsaı.pdb
+C:\Users\Administrator\source\repos\mayın tarlsaı\mayın tarlsaı\obj\Debug\mayın tarlsaı.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\mayın tarlsaı\mayın tarlsaı\obj\Debug\mayın tarlsaı.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\mayın tarlsaı\mayın tarlsaı\obj\Debug\mayın tarlsaı.exe
+C:\Users\Administrator\source\repos\mayın tarlsaı\mayın tarlsaı\obj\Debug\mayın tarlsaı.pdb

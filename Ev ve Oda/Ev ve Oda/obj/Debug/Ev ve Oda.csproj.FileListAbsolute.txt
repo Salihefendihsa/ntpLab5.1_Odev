@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\Ev ve Oda\Ev ve Oda\bin\Debug\Ev ve Oda.exe.config
+C:\Users\Administrator\source\repos\Ev ve Oda\Ev ve Oda\bin\Debug\Ev ve Oda.exe
+C:\Users\Administrator\source\repos\Ev ve Oda\Ev ve Oda\bin\Debug\Ev ve Oda.pdb
+C:\Users\Administrator\source\repos\Ev ve Oda\Ev ve Oda\obj\Debug\Ev ve Oda.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Ev ve Oda\Ev ve Oda\obj\Debug\Ev ve Oda.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Ev ve Oda\Ev ve Oda\obj\Debug\Ev ve Oda.exe
+C:\Users\Administrator\source\repos\Ev ve Oda\Ev ve Oda\obj\Debug\Ev ve Oda.pdb
